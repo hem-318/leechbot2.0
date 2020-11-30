@@ -1,1 +1,1 @@
-worker: python3 leechbot.py
+lazyleech: python3 -m lazyleech.py
